@@ -8,7 +8,7 @@ const Home = () => {
   const newReview = reviews.slice(0, 3);
   return (
     <section className="container ">
-      <section className="grid grid-cols-2 gap-4 justify-items-center items-center text-center">
+      <section className="grid grid-cols-1 gap-4 sm:grid-cols-2 justify-items-center items-center text-center">
         <div>
           <h1 className="text-8xl">
             WelCome To <span className="text-orange-500">ALAEZE</span>
@@ -27,7 +27,7 @@ const Home = () => {
       </section>
       <section className="mb-7">
         <h1 className="text-4xl text-center">Customer Reviews(3)</h1>
-        <div className="grid grid-cols-3 gap-4 ml-12">
+        <div className="grid grid-cols-1 gap-4 sm:grid-cols-3 mx-5 ">
           {newReview.map((review) => (
             <Review key={review.id} review={review}></Review>
           ))}

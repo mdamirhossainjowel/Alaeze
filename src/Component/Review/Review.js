@@ -8,7 +8,7 @@ const Review = (props) => {
         <img className="w-20 rounded-full mr-4" src={img} alt="" />
         <h1>{user}</h1>
       </div>
-      <div className="flex items-center ">
+      <div className="grid grid-cols-1 sm:flex items-center ">
         <div>
           <p>Rating: {rating}stars</p>
           <h2>{review.slice(0, 400)}...</h2>

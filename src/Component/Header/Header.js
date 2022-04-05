@@ -4,7 +4,7 @@ import image from "../../Utilites/Image/logo.jpg";
 
 const Header = () => {
   return (
-    <div className="flex justify-between items-center mx-20">
+    <div className="grid sm:flex justify-between items-center mx-20">
       <div>
         <img className="w-28 rounded-full" src={image} alt="" />
       </div>
