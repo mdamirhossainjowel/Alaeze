@@ -10,7 +10,7 @@ const Home = () => {
     <section className="container ">
       <section className="grid grid-cols-1 gap-4 sm:grid-cols-2 justify-items-center items-center text-center">
         <div>
-          <h1 className="text-8xl">
+          <h1 className="text-4xl sm:text-8xl">
             WelCome To <span className="text-orange-500">ALAEZE</span>
           </h1>
           <p className="mt-4">
