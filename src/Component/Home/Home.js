@@ -34,7 +34,7 @@ const Home = () => {
         </div>
         <div className="text-center">
           <NavLink
-            className="mr-4 text-white text-xl bg-sky-500 p-3 rounded-full "
+            className="mr-4 text-xl bg-orange-200 p-3 rounded-full "
             to="/reviews"
           >
             See All Reviews
