@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "user": "John Doe",
+    "img": "https://i.ibb.co/HDrWZkL/aa.jpg",
+    "review": "Okay really happy I purchased this bag! It's really nice to get around with being as though it can be a backpack, tote and crossbody bag(yes it does cross body its official!) Its enough room for me because I always try to pack light.My cons with the bag is that I wish they would make the pockets inside deeper with a close off, and the ones on the outside with a close off. Another thing would be to make a small deep side pocket so I could grab my phone or wallet while I'm using it as a backpack. And the bag could be wider to hold more things.Other than that I only had this bag for a month but I really like it still so far.",
+    "rating": 4
+  },
+  {
+    "id": 2,
+    "user": "Kajjal Agarwal",
+    "img": "https://i.ibb.co/NTRPR3L/II.png",
+    "review": "The way the back works ... you have a single strap (with length adjusters on both sides). This is attached at the bottom of one side and passes through a metal ring near the top end of the bag. It curves around, creating the tote handle on that side of the bag, goes down through another metal ring, and then attaches at the bottom of the other side. This configuration is the default backpack mode. Because the strap is not removable, the way to convert it to crossbody is to lengthen both sides of the straps and let the extra length run through the top rings. The handle section of the strap sits on your shoulder.",
+    "rating": 3
+  },
+  {
+    "id": 3,
+    "user": "Seam Ahmed",
+    "img": "https://i.ibb.co/HDrWZkL/aa.jpg",
+    "review": "If you intend to use this primarily as a backpack, be warned by all the other reviews; The “on the fly” strap is not your friend. Read instead: this bag will decide on its own when it will be a backpack vs a messenger bag. You will have to develop a technique for putting it on and taking it off that doesn’t embarrass you in public or spill all your belongings.",
+    "rating": 4
+  },
+  {
+    "id": 4,
+    "user": "Porimoni",
+    "img": "https://i.ibb.co/NTRPR3L/II.png",
+    "review": " was using the laptop pocket to store my lunch and unfortunately some shrimp juice leaked and melted some cough drops I had in the pocket as well, leaving a sticky stain and horrible smell. I pulled it inside out to clean it, poured cleaner and water in there expecting it to just soak out like a regular bag. ",
+    "rating": 4
+  },
+  {
+    "id": 5,
+    "user": "Russel Vai",
+    "img": "https://i.ibb.co/HDrWZkL/aa.jpg",
+    "review": "The 2nd version on this bag will be better since there are such obvious improvements to be made and Carhartt is a good company. the straps that convert from over the shoulder to a backpack need to be improved and the bag actually can't hold that much stuff--maybe half of what a backpack can hold. It's not a real substitute for a backpack. The positioning of the central strap makes it hang poorly off your body in almost every position and a second strap for when you want to grab it like a purse is needed. All the strap positions for holding this bag are awkward.",
+    "rating": 3
+  },
+  {
+    "id": 6,
+    "user": "Tanasha K.",
+    "img": "https://i.ibb.co/NTRPR3L/II.png",
+    "review": "I commute daily into the city from the burbs. Yes, I am one of a rapidly shrinking group.In the past, my relationship with my backpack was like that of a goldfish to its bowl. The more space the more I carried. I finally gained a bit of sanity and decided to stop being a beast of burden. The theory, smaller bag, less cr@@. After trying a few others, I discover the Carhartt. Don’t let the description fool you - very flexible with room for all the essentials.",
+    "rating": 4
+  },
+  {
+    "id": 7,
+    "user": "Dipojol Kaka",
+    "img": "https://i.ibb.co/HDrWZkL/aa.jpg",
+    "review": "I got this so quickly and I absolutely love it, I had a gift card but was still leery of the price. I did just get it but definitely seems worth it! It’s thick material, yet soft. It seems sturdy and it was completely black as pictured. I did notice the inside is slightly narrow, but it still fits all my regular contents inside. I probably will only use this as a crossbody, however I do enjoy the option to seemlessly switch to a backpack with style!",
+    "rating": 4
+  },
+  {
+    "id": 8,
+    "user": "Honululu Begum",
+    "img": "https://i.ibb.co/NTRPR3L/II.png",
+    "review": "I love this bag. It's very lightweight but not cheaply made. The laptop/tablet compartment is roomy and generously padded. The canvas is super sturdy. Only two slight drawbacks that I noticed so far: 1) the straps are not detachable or lockable to keep them from adjusting under the weight of the bag. 2) the larger outside pockets are very tight allowing only a cellphone, slim umbrella or bottle",
+    "rating": 4
+  },
+  {
+    "id": 9,
+    "user": "Saiful Kalam",
+    "img": "https://i.ibb.co/HDrWZkL/aa.jpg",
+    "review": "I commute daily into the city from the burbs. Yes, I am one of a rapidly shrinking group.In the past, my relationship with my backpack was like that of a goldfish to its bowl. The more space the more I carried. I finally gained a bit of sanity and decided to stop being a beast of burden. The theory, smaller bag, less cr@@. After trying a few others, I discover the Carhartt. Don’t let the description fool you - very flexible with room for all the essentials.",
+    "rating": 4
+  }
+]
