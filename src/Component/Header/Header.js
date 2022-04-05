@@ -9,19 +9,54 @@ const Header = () => {
         <img className="w-28 rounded-full" src={image} alt="" />
       </div>
       <nav>
-        <NavLink className="mr-4 text-xl" to="/home">
+        <NavLink
+          to="/home"
+          className={({ isActive }) =>
+            isActive
+              ? "text-red-500 font-bold mr-4 text-xl"
+              : "text-black mr-4 text-xl"
+          }
+        >
           Home
         </NavLink>
-        <NavLink className="mr-4 text-xl" to="/reviews">
+        <NavLink
+          className={({ isActive }) =>
+            isActive
+              ? "text-red-500 font-bold mr-4 text-xl"
+              : "text-black mr-4 text-xl"
+          }
+          to="/reviews"
+        >
           Reviews
         </NavLink>
-        <NavLink className="mr-4 text-xl" to="/dashboard">
+        <NavLink
+          className={({ isActive }) =>
+            isActive
+              ? "text-red-500 font-bold mr-4 text-xl"
+              : "text-black mr-4 text-xl"
+          }
+          to="/dashboard"
+        >
           Dashboard
         </NavLink>
-        <NavLink className="mr-4 text-xl" to="/blog">
+        <NavLink
+          className={({ isActive }) =>
+            isActive
+              ? "text-red-500 font-bold mr-4 text-xl"
+              : "text-black mr-4 text-xl"
+          }
+          to="/blog"
+        >
           Blog
         </NavLink>
-        <NavLink className="mr-4 text-xl" to="/about">
+        <NavLink
+          className={({ isActive }) =>
+            isActive
+              ? "text-red-500 font-bold mr-4 text-xl"
+              : "text-black mr-4 text-xl"
+          }
+          to="/about"
+        >
           About
         </NavLink>
       </nav>

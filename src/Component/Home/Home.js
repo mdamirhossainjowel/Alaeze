@@ -19,7 +19,7 @@ const Home = () => {
             quality.We hope you enjoy our products. Contact our page for more
             details.
           </p>
-          <button className="bg-orange-200 p-3 rounded mt-2">Live Demo</button>
+          <button className="bg-orange-200 p-3 rounded mt-2">Our Page</button>
         </div>
         <div>
           <img src={image} alt="" />
