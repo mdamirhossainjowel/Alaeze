@@ -2,9 +2,7 @@ import React from "react";
 
 const Blog = () => {
   return (
-    <div>
-      <h1>Blog</h1>
-    </div>
+    <section className="grid grid-cols-1 gap-4 justify-items-center items-center text-center mb-10"></section>
   );
 };
 
