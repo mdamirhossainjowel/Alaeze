@@ -1,6 +1,6 @@
 # Alaeze
 
-Project Live Link [Alaeze](https://alaezrreview.netlify.app/).
+Project Live Link [Alaeze](https://alaezereview.netlify.app/).
 
 # Project Description
 
