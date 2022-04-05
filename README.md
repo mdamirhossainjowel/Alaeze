@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Alaeze
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Alaeze](https://alaezrreview.netlify.app/).
 
 ## Available Scripts
 
